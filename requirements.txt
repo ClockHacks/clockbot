@@ -1,4 +1,0 @@
-git+https://github.com/mike1808/discord-py-slash-command
-google-api-python-client
-google-auth-httplib2
-google-auth-oauthlib
