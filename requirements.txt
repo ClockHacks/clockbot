@@ -1,4 +1,7 @@
 git+https://github.com/mike1808/discord-py-slash-command
+git+https://github.com/interactions-py/library
 google-api-python-client
 google-auth-httplib2
 google-auth-oauthlib
+PyNaCl==1.3.0
+dnspython==1.16.0
