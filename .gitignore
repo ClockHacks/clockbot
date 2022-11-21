@@ -1,7 +1,7 @@
-# token.json
-# credentials.json
-# discord_token.json
-# sheetid.json
+token.json
+credentials.json
+discord_token.json
+sheetid.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/    
